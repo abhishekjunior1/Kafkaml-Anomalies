@@ -1,1 +1,1 @@
-# Kafkaml-Anomalies
+# Kafkaml-Anomalies 1.0
